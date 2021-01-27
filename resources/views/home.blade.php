@@ -95,7 +95,7 @@
     </div>
 </section>
 
-<section class="community">
+<section class="community pb-0">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-6">
@@ -110,6 +110,9 @@
                 </div>
             </div>
         </div>
+    </div>
+    <div class="main-img text-center">
+        <img src="{{asset('assets/img/home/neighbours.png')}}" alt="neighbours" class="img-fluid">
     </div>
 </section>
 
